@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hola! Soy JugueDev <img width="30px"></h1>
 
-<!--
-**JugueDev/JugueDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://linkedin.com/in/example" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://medium.com/@example" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://tiktok.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="example"/>
+    </a>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+  
+<h3 font-size="20" align="center">A passionate software developer.</h3>
+
+----
+
+![Snake animation](https://github.com/JugueDev/JugueDev/blob/output/github-contribution-grid-snake.svg)
