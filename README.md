@@ -18,7 +18,9 @@
 ----
 
   
-<h3 font-size="20" align="center">A passionate software developer.</h3>
+<h3 font-size="20" align="center">
+Soy un Senior Data Engineer muy intrigado por la mejora de la sociedad a través del uso y la creación de tecnología. Tengo experiencia en el desarrollo de proyectos multidisciplinarios principalmente en Cloud Computing, Ingeniería de Datos, Desarrollo Móvil y Desarrollo de Seguridad Web.
+</h3>
 
 ----
 
