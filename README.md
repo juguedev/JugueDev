@@ -36,8 +36,11 @@
 
 <h2 align="center" style="margin: 5px 10px;">Last medium posts:</h2> 
 
-<a target="_blank"><img src="https://github-read-medium.vercel.app/latest?username=JugueDev&limit=6&theme=nord" alt="Recent Articles"> 
+<a target="_blank"><img src="https://github-read-medium.vercel.app/latest?username=JugueDev&limit=6&theme=dracula" alt="Recent Articles"> 
+<!--  theme=nord -->
 
+
+  
 ----
   
 <p align="center">
