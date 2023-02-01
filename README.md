@@ -9,7 +9,7 @@
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://tiktok.com/example" target="_blank">
+    <a href="https://tiktok.com/@juguedev" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -18,9 +18,9 @@
 ----
 
   
-<h3 font-size="20" align="center">
-Soy un Senior Data Engineer muy intrigado por la mejora de la sociedad a través del uso y la creación de tecnología. Tengo experiencia en el desarrollo de proyectos multidisciplinarios principalmente en Cloud Computing, Ingeniería de Datos, Desarrollo Móvil y Desarrollo de Seguridad Web.
-</h3>
+<h4 font-size="20" align="center">
+Hola! Soy un Senior Data Engineer muy intrigado por la mejora de la sociedad a través del uso y la creación de tecnología. Tengo experiencia en el desarrollo de proyectos multidisciplinarios principalmente en Cloud Computing, Ingeniería de Datos, Desarrollo Móvil y Desarrollo de Seguridad Web.
+</h4>
 
 ----
 
@@ -38,7 +38,7 @@ Soy un Senior Data Engineer muy intrigado por la mejora de la sociedad a través
 
 <h2 align="center" style="margin: 5px 10px;">Last medium posts:</h2> 
 
-<a target="_blank"><img src="https://github-read-medium.vercel.app/latest?username=JugueDev&limit=6&theme=dracula" alt="Recent Articles"> 
+<a target="_blank"><img src="https://read-medium-app-juguedev.vercel.app/latest?username=JugueDev&limit=6&theme=dracula" alt="Recent Articles"> 
 <!--  theme=nord -->
 
 
