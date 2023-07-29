@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy JugueDev <img width="30px"></h1>
+<h1 align="center">Hola! Soy Jürgen <img width="30px"></h1>
 
 
 <div style="margin-top:10px" align="center">
@@ -19,7 +19,7 @@
 
   
 <h4 font-size="20" align="center">
-Hola! Soy un Senior Data Engineer muy intrigado por la mejora de la sociedad a través del uso y la creación de tecnología. Tengo experiencia en el desarrollo de proyectos multidisciplinarios principalmente en Cloud Computing, Ingeniería de Datos, Desarrollo Móvil y Desarrollo de Seguridad Web.
+Hola! Soy un Arquitecto de Soluciones especializado en AWS con experiencia en diseño y desarrollo de proyectos multidisciplinarios en Cloud Computing, Ingeniería de Datos, Desarrollo Web y Migraciones. Instructor del programa re-start, aprendiz insistente y apasionado por el valor que puede entregar la tecnología a las organizaciones y a la vida de las personas.
 </h4>
 
 ----
