@@ -42,9 +42,4 @@ Hola! Soy un Arquitecto de Soluciones especializado en AWS con experiencia en di
 <!--  theme=nord -->
 
 
-  
-----
-  
-<p align="center">
-  <img src="https://github.com/JugueDev/JugueDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+ 
