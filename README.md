@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Jürgen <img width="30px"></h1>
+<h1 align="center">Hi! I'm Jürgen <img width="30px"></h1>
 
 
 <div style="margin-top:10px" align="center">
@@ -19,7 +19,7 @@
 
   
 <h4 font-size="20" align="center">
-Hola! Soy un Arquitecto de Soluciones especializado en AWS con experiencia en diseño y desarrollo de proyectos multidisciplinarios en Cloud Computing, Ingeniería de Datos, Desarrollo Web y Migraciones. Instructor del programa re-start, aprendiz insistente y apasionado por el valor que puede entregar la tecnología a las organizaciones y a la vida de las personas.
+Hi! I am a Solutions Architect specialized in Cloud Computing with experience in design and development of multidisciplinary projects in Internet of Things, Data Engineering, Web Development and Migrations. Instructor of the re-start program, insistent learner and passionate about the value that technology can deliver to organizations and people's lives.
 </h4>
 
 ----
