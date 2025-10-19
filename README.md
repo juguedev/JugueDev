@@ -9,9 +9,6 @@
     <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://tiktok.com/@juguedev" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="example"/>
-    </a>
   </div>
 </div>
 
